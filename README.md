@@ -5,3 +5,8 @@
 # Naruto vs Sasuke
 A simple game of attacking and healing
 Being a naruto fan i did this.
+
+## Press Q to attack from sasuke's side
+## press L to attack from naruto's side
+
+# This game is build by using html,css and js.
